@@ -1,0 +1,11 @@
+player1: 8 puntos
+player2: 16 puntos
+player3: 11 puntos
+player4: 10 puntos
+player5: 24 puntos
+player6: 12 puntos
+player7: 8 puntos
+player8: 16 puntos
+player9: 14 puntos
+player10: 10 puntos
+Jor: 93 puntos
